@@ -1,0 +1,2 @@
+This project focuses on implementing tree predictors for binary classification from scratch, specifically considering the Mushroom dataset. The primary goal is to know whether mushrooms are poisonous using decision tree algorithms. These trees use single-feature binary tests for decision-making at internal nodes, considering both numerical thresholds and categorical membership tests. This report demonstrates the methodology, hyperparameter tuning, and experimental results to evaluate the model's effectiveness and mitigate potential issues such as overfitting.
+
